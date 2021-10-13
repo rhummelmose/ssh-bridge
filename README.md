@@ -10,8 +10,6 @@ SSH into a container running in an environment where ingress is blocked.
 * Port of your choice (referred to as TUNNEL_PORT)
   * If the public host is not your local machine, it has to be open for ingress on your public host
 
-NOTE: Only 
-
 ## Steps
 1. Forward the port you want to establish the tunnel on to your public host (ie. 19000 to your laptop)
 2. Generate a key to use for authentication (or use one you have)
