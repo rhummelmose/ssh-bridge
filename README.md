@@ -1,4 +1,4 @@
-# Playbook
+# ssh-bridge
 
 SSH into a container running in an environment where ingress is blocked.
 
